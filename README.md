@@ -1,5 +1,5 @@
 # 一言 API (Hitokoto/ヒトコト)
-**重要提示：原 repo 位于 https://github.com/FlyingSky-CN/HitokotoAPI ，而此处 fork 为自用。且如果一下说明未及时更新，则用处很可能与之大相径庭。**
+**重要提示：原 repo 位于 https://github.com/FlyingSky-CN/HitokotoAPI ，而此处 fork 为自用。且如果一下说明未及时更新，则用处很可能与之大相径庭。此外，所使用的数据文件（例如目前可能存在的 hitokoto.txt）不适用从原项目继承的许可，如需使用请单独联系我。**
 
 基于 PHP 的一言 API (Hitokoto/ヒトコト)，非使用数据库（不依赖任何在线API和本地数据库调用一言）。
 ## 什么是一言
