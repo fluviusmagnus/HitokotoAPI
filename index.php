@@ -1,8 +1,10 @@
 <?php
 	/*
+		fluviusmagnus / HitokotoAPI on the basis of
 		FlyingSky-CN / HitokotoAPI
 		
-		Copyright 2018 FlyingSky & OWUcat .
+		Copyright 2020 fluviusmagnus.
+		Copyright 2018 FlyingSky & OWUcat.
 
 		Licensed under the Apache License, Version 2.0 (the "License");
 		you may not use this file except in compliance with the License.
