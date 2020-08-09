@@ -21,7 +21,14 @@
 	$stime=microtime(true);
 
 	$path = dirname(__FILE__);
-	$file = file($path."/hitokoto.txt");
+
+	if ($_GET['data'] == 'antwort') {
+		$file = file($path."/antwort.txt");
+	} else {
+		$file = file($path."/hitokoto.txt");
+	}
+	
+	
 	$arr  = mt_rand( 0, count( $file ) - 1 );
 	$content  = trim($file[$arr]);
 	if (isset($_GET['charset']) && !empty($_GET['charset'])) {
