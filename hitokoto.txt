@@ -11,3 +11,4 @@ Ora et labora! #10
 <span class="fraktur">Meine Geliebte iſt die Abbreviatur des Univerſums, das Univerſum die Elongatur meiner Geliebten.</span> #11
 爱是尘世的信仰，信仰是神圣的爱。#12
 再次，前人将我的发现表述。<br />然而应当高兴，这正是在正确的道路上。#13
+<span class="fraktur">Was ich noch nicht habe, habe ich nicht.</span> #14
